@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 300 299.99999"
+   version="1.1"
+   sodipodi:docname="bulb.svg"
+   width="300"
+   height="300"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>lightbult</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="0.76862947"
+     inkscape:cx="-526.6379"
+     inkscape:cy="-19.37633"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#231f20;}</style>
+  </defs>
+  <title
+     id="title6">lightbult</title>
+  <path
+     class="cls-1"
+     d="m 247.08274,93.996331 a 96.019783,96.019783 0 0 1 -20.19401,55.867489 q -18.85822,25.61574 -21.5298,30.25173 a 109.37769,109.37769 0 0 0 -12.1007,55.00315 v 0.70719 h -86.43352 v -0.47147 A 109.14196,109.14196 0 0 0 94.016834,180.35128 355.55607,355.55607 0 0 0 73.115638,150.09954 96.019783,96.019783 0 0 1 52.921625,94.232053 90.283741,90.283741 0 0 1 81.523263,27.285364 a 97.512725,97.512725 0 0 1 136.643537,0 90.283741,90.283741 0 0 1 28.91594,66.710967 z m -33.00189,54.531699 4.00738,-5.42175 a 78.025897,78.025897 0 0 0 -8.72193,-109.063388 84.469122,84.469122 0 0 0 -118.492502,0 78.025897,78.025897 0 0 0 -8.721929,109.063388 l 12.807878,17.52244 a 71.425518,71.425518 0 0 1 8.721923,14.14366 98.76994,98.76994 0 0 1 14.14367,50.44575 h 10.7649 v -75.35431 l -21.5298,-43.05962 h 11.47208 l 20.9012,43.05962 v 75.35431 h 21.52981 v -75.35431 l 20.90119,-43.05962 h 11.47209 L 171.807,149.86382 v 75.35431 h 10.76491 a 101.28437,101.28437 0 0 1 14.14366,-50.44575 279.49458,279.49458 0 0 1 16.18664,-24.20139 l 0.70719,-0.70717 q -0.15716,-1.33579 0.47145,-1.33579 z M 118.06107,257.43426 V 246.8265 h 64.58941 v 10.60776 z m 0,21.52981 v -10.60776 h 64.58941 v 10.7649 h -64.58941 z m 10.7649,21.52979 v -10.60774 h 43.05961 v 10.7649 h -43.05961 z"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="fill:#231f20;stroke-width:7.85759306" />
+</svg>
