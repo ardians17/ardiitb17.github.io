@@ -9,7 +9,7 @@
 
 body{
   background-color: #FAEBD7;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Raleway', sans-serif;
   margin: 0px;
 }
 
@@ -72,7 +72,7 @@ p{
   padding-top:20px;
   align-items: center;
 }
-
+ 
 @media screen and (min-width:1050px){
   .container-left{
     align-items: flex-end;
@@ -84,8 +84,6 @@ p{
     padding-left: 20px;
     padding-top:0px;
   }
-
-}
 
 .container-side img{
   width: 100%;
